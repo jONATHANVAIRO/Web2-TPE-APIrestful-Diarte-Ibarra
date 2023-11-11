@@ -134,7 +134,7 @@ BODY:
 ------------
 
 
-#### 5. Crear una nueva camiseta:
+#### 5. Modificar una  camiseta:
 
 ###### PUT
 
